@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Mi primer proyecto realizado en React como parte de el curso de desarrollador web realizado en codecademy.com
+### Mi primer proyecto realizado en React como parte de el curso de desarrollador web realizado en codecademy.com
 ##Consiste en una página web que realiza request a una api llamada para ubicar locales de comida en determinado lugar o cuidad.
 
 Nota: La estructura del HTML y CSS fue facilitado por codecademy para realizar de manera efectiva la practica
